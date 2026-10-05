@@ -9,8 +9,9 @@ El caso de estudio utiliza el sistema clásico de **Lotka–Volterra** para repr
 **Docente:** Dr. Paul Antonio Valle Trujillo  
 **Departamento:** Ingeniería Eléctrica y Electrónica  
 **Institución:** Tecnológico Nacional de México / Instituto Tecnológico de Tijuana  
-**Asignatura:** Modelado Matemático  
+**Asignatura:** Modelado Matemático
 **Programa:** Maestría en Ciencias de la Ingeniería
+**Alumno:** Nombre completo. No. Control. correo institucional
 **Alumno:** Nombre completo. No. Control. correo institucional
 
 ---
